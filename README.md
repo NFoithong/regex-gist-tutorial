@@ -1,7 +1,9 @@
 # regex-gist-tutorial
 
+ <p> 
   <img alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" target="_blank" />
   <img alt="gist github" src="https://img.shields.io/badge/Gist-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </p>
   <br>
   <img alt="MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg?style=flat-square" target="_blank" />
   
