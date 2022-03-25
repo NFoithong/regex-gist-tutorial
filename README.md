@@ -32,7 +32,20 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 - [About The Project](#about-the-project)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Deployment ](#deployment)
+- [Deployment](#deployment)
 - [Contribution](#contribution)
 - [Licence](#license)
 - [Questions & Contact Info](#questions-&-contact-info)
+
+
+# Deployment
+
+
+# Contribution
+
+
+# Licence
+
+
+# Questions & Contact Info
+Email: n.foithong1983@gmail.com
