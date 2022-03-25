@@ -34,18 +34,16 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 - [Acceptance Criteria](#acceptance-criteria)
 - [Deployment](#deployment)
 - [Contribution](#contribution)
-- [Licence](#license)
 - [Questions & Contact Info](#questions-&-contact-info)
 
 
 # Deployment
-
+<a href="https://gist.github.com/NFoithong/f1a1bba08783e9fcea21c38af01ed29c">
+  <img alt="gist deployment" src="https://img.shields.io/badge/gist-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
 
 # Contribution
-
-
-# Licence
-
+This project is looking for contributions at all time.
 
 # Questions & Contact Info
 Email: n.foithong1983@gmail.com
